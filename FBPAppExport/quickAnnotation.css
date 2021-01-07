@@ -1,0 +1,522 @@
+.mediaViewInfo {
+	--web-view-name: iPhone X/XS/11 Pro – 35;
+	--web-view-id: iPhone_XXS11_Pro__35;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_XXS11_Pro__35;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_XXS11_Pro__35 {
+	position: absolute;
+	width: 375px;
+	height: 826px;
+	background-color: rgba(244,244,244,1);
+	overflow: hidden;
+	--web-view-name: iPhone X/XS/11 Pro – 35;
+	--web-view-id: iPhone_XXS11_Pro__35;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+#pick1 {
+	fill: rgba(255,255,255,1);
+}
+.pick1 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 41px;
+	left: 31px;
+	top: 180px;
+}
+#pick2 {
+	fill: rgba(255,255,255,1);
+}
+.pick2 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 41px;
+	left: 31px;
+	top: 228px;
+}
+#pick3 {
+	fill: rgba(255,255,255,1);
+}
+.pick3 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 41px;
+	left: 31px;
+	top: 276px;
+}
+#pick4 {
+	fill: rgba(255,255,255,1);
+}
+.pick4 {
+	position: absolute;
+	overflow: visible;
+	width: 313px;
+	height: 41px;
+	left: 31px;
+	top: 324px;
+}
+#Add_comment {
+	left: 164px;
+	top: 391px;
+	position: absolute;
+	overflow: visible;
+	width: 232px;
+	height: 25px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(123,123,123,1);
+}
+#Quick_annotation {
+	left: 30px;
+	top: 114px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	height: 23px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(81,211,176,1);
+}
+#nextButton {
+	fill: rgba(81,211,176,1);
+}
+.nextButton {
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	height: 42px;
+	left: 194px;
+	top: 470px;
+}
+#backButton {
+	fill: rgba(237,237,237,1);
+}
+.backButton {
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	height: 42px;
+	left: 47px;
+	top: 470px;
+}
+#Next {
+	left: 248px;
+	top: 482px;
+	position: absolute;
+	overflow: visible;
+	width: 32px;
+	height: 18px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Back {
+	left: 98px;
+	top: 482px;
+	position: absolute;
+	overflow: visible;
+	width: 40px;
+	height: 23px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(123,123,123,1);
+}
+#Rectangle_49 {
+	fill: rgba(237,237,237,1);
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 64px;
+	left: 0px;
+	top: -7px;
+}
+#Rectangle_31 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	height: 28px;
+	left: 30px;
+	top: 72px;
+}
+#Rectangle_32 {
+	fill: rgba(81,211,176,1);
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	height: 28px;
+	left: 135px;
+	top: 72px;
+}
+#Rectangle_33 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	height: 28px;
+	left: 240px;
+	top: 72px;
+}
+#Icon_open-graph {
+	fill: rgba(112,112,112,1);
+}
+.Icon_open-graph {
+	overflow: visible;
+	position: absolute;
+	width: 11.406px;
+	height: 11.405px;
+	left: 44.5px;
+	top: 81px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Home {
+	left: 73px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 20px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 9px;
+	color: rgba(112,112,112,1);
+}
+#Annotations {
+	left: 168px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 20px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+#Leaderboard {
+	left: 273px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	height: 20px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 9px;
+	color: rgba(112,112,112,1);
+}
+#Icon_ionic-ios-trophy {
+	fill: rgba(112,112,112,1);
+}
+.Icon_ionic-ios-trophy {
+	overflow: visible;
+	position: absolute;
+	width: 10.366px;
+	height: 9.569px;
+	left: 254.29px;
+	top: 80.721px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-pen {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-pen {
+	overflow: visible;
+	position: absolute;
+	width: 10.297px;
+	height: 10.297px;
+	left: 147.424px;
+	top: 80px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#HealthWalk {
+	left: 171px;
+	top: 26px;
+	position: absolute;
+	overflow: hidden;
+	width: 91px;
+	height: 15px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+#Icon_awesome-walking {
+	fill: rgba(81,211,176,1);
+}
+.Icon_awesome-walking {
+	overflow: visible;
+	position: absolute;
+	width: 13.721px;
+	height: 21.953px;
+	left: 124px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_ionic-ios-add-circle-outl {
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 135px;
+	top: 389px;
+	overflow: visible;
+}
+#Path_17 {
+	fill: rgba(81,211,176,1);
+}
+.Path_17 {
+	overflow: visible;
+	position: absolute;
+	width: 10.24px;
+	height: 10.24px;
+	left: 4.88px;
+	top: 4.88px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_18 {
+	fill: rgba(81,211,176,1);
+}
+.Path_18 {
+	overflow: visible;
+	position: absolute;
+	width: 20px;
+	height: 20px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Pain {
+	left: 59px;
+	top: 192px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	height: 22px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(123,123,123,1);
+}
+#Fatigue {
+	left: 59px;
+	top: 240px;
+	position: absolute;
+	overflow: visible;
+	width: 148px;
+	height: 22px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(123,123,123,1);
+}
+#Stress {
+	left: 59px;
+	top: 288px;
+	position: absolute;
+	overflow: visible;
+	width: 190px;
+	height: 22px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(123,123,123,1);
+}
+#Something_else {
+	left: 60px;
+	top: 336px;
+	position: absolute;
+	overflow: visible;
+	width: 297px;
+	height: 22px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(123,123,123,1);
+}
+#Answer_saved {
+	left: 164px;
+	top: 413px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	height: 16px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(81,211,176,1);
+}
+#Icon_awesome-check {
+	fill: rgba(81,211,176,1);
+}
+.Icon_awesome-check {
+	overflow: visible;
+	position: absolute;
+	width: 11.852px;
+	height: 8.838px;
+	left: 145px;
+	top: 416.008px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Please_click_your_manual_annot {
+	left: 36px;
+	top: 151px;
+	position: absolute;
+	overflow: visible;
+	width: 305px;
+	height: 36px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 13px;
+	color: rgba(123,123,123,1);
+}
+#Icon_ionic-ios-menu {
+	position: absolute;
+	width: 23.571px;
+	height: 13.75px;
+	left: 22.428px;
+	top: 23px;
+	overflow: visible;
+}
+#Path_19 {
+	fill: rgba(112,112,112,1);
+}
+.Path_19 {
+	overflow: visible;
+	position: absolute;
+	width: 23.572px;
+	height: 1.964px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_20 {
+	fill: rgba(112,112,112,1);
+}
+.Path_20 {
+	overflow: visible;
+	position: absolute;
+	width: 23.572px;
+	height: 1.964px;
+	left: 0px;
+	top: 5.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_21 {
+	fill: rgba(112,112,112,1);
+}
+.Path_21 {
+	overflow: visible;
+	position: absolute;
+	width: 23.572px;
+	height: 1.964px;
+	left: 0px;
+	top: 11.786px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-check-circle {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-check-circle {
+	overflow: visible;
+	position: absolute;
+	width: 19.438px;
+	height: 19.438px;
+	left: 309.788px;
+	top: 239.063px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-check-circle_cj {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-check-circle_cj {
+	overflow: visible;
+	position: absolute;
+	width: 19.438px;
+	height: 19.438px;
+	left: 309.788px;
+	top: 191.063px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-check-circle_ck {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-check-circle_ck {
+	overflow: visible;
+	position: absolute;
+	width: 19.438px;
+	height: 19.438px;
+	left: 309.788px;
+	top: 287.063px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-check-circle_cl {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-check-circle_cl {
+	overflow: visible;
+	position: absolute;
+	width: 19.438px;
+	height: 19.438px;
+	left: 309.788px;
+	top: 335.063px;
+	transform: matrix(1,0,0,1,0,0);
+}

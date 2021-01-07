@@ -1,0 +1,533 @@
+.mediaViewInfo {
+	--web-view-name: iPhone X/XS/11 Pro – 39;
+	--web-view-id: iPhone_XXS11_Pro__39;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: iPhone_XXS11_Pro__39;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#iPhone_XXS11_Pro__39 {
+	position: absolute;
+	width: 375px;
+	height: 812px;
+	background-color: rgba(244,244,244,1);
+	overflow: hidden;
+	--web-view-name: iPhone X/XS/11 Pro – 39;
+	--web-view-id: iPhone_XXS11_Pro__39;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-center-horizontally: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_50 {
+	fill: rgba(81,211,176,1);
+}
+.Rectangle_50 {
+	position: absolute;
+	overflow: visible;
+	width: 315px;
+	height: 117px;
+	left: 30px;
+	top: 123px;
+}
+#Thank_you_for_helping_collect_ {
+	left: 76px;
+	top: 141px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	height: 33px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Rectangle_77 {
+	fill: rgba(81,211,176,1);
+}
+.Rectangle_77 {
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	height: 33px;
+	left: 125px;
+	top: 585px;
+}
+#Start_annotating {
+	left: 140px;
+	top: 594px;
+	position: absolute;
+	overflow: visible;
+	width: 96px;
+	height: 18px;
+	text-align: center;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#What_research_is_using_your_da {
+	left: 34px;
+	top: 268px;
+	position: absolute;
+	overflow: visible;
+	width: 262px;
+	height: 29px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	color: rgba(112,112,112,1);
+}
+#Rectangle_37 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_37 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	height: 91px;
+	left: 30px;
+	top: 297px;
+}
+#Rectangle_80 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_80 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	height: 91px;
+	left: 30px;
+	top: 379px;
+}
+#Rectangle_81 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_81 {
+	filter: drop-shadow(0px 3px 6px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 333px;
+	height: 91px;
+	left: 30px;
+	top: 461px;
+}
+#Research_Fatigue {
+	left: 133px;
+	top: 309px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 18px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Research_Stress {
+	left: 133px;
+	top: 391px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 18px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Research_Efficiency {
+	left: 133px;
+	top: 473px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	height: 18px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Icon_ionic-ios-arrow-down {
+	fill: rgba(112,112,112,1);
+}
+.Icon_ionic-ios-arrow-down {
+	overflow: visible;
+	position: absolute;
+	width: 13.367px;
+	height: 7.643px;
+	transform: matrix(1,0,0,1,317.4954,329.4445) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Icon_ionic-ios-arrow-down_bu {
+	fill: rgba(112,112,112,1);
+}
+.Icon_ionic-ios-arrow-down_bu {
+	overflow: visible;
+	position: absolute;
+	width: 13.367px;
+	height: 7.643px;
+	transform: matrix(1,0,0,1,317.4954,411.4445) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Icon_ionic-ios-arrow-down_bv {
+	fill: rgba(112,112,112,1);
+}
+.Icon_ionic-ios-arrow-down_bv {
+	overflow: visible;
+	position: absolute;
+	width: 13.367px;
+	height: 7.643px;
+	transform: matrix(1,0,0,1,317.4954,493.4445) rotate(-90deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Icon_metro-database {
+	fill: rgba(228,228,228,1);
+}
+.Icon_metro-database {
+	overflow: visible;
+	position: absolute;
+	width: 18.971px;
+	height: 18.971px;
+	left: 45.254px;
+	top: 323.357px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-database_bx {
+	fill: rgba(228,228,228,1);
+}
+.Icon_metro-database_bx {
+	overflow: visible;
+	position: absolute;
+	width: 18.971px;
+	height: 18.971px;
+	left: 45.254px;
+	top: 405.357px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_metro-database_by {
+	fill: rgba(228,228,228,1);
+}
+.Icon_metro-database_by {
+	overflow: visible;
+	position: absolute;
+	width: 18.971px;
+	height: 18.971px;
+	left: 45.254px;
+	top: 487.357px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Dl2Rcm-W4AABPaI {
+	position: absolute;
+	width: 37px;
+	height: 18px;
+	left: 83px;
+	top: 308px;
+	overflow: visible;
+}
+#Dl2Rcm-W4AABPaI_b {
+	position: absolute;
+	width: 37px;
+	height: 18px;
+	left: 83px;
+	top: 390px;
+	overflow: visible;
+}
+#Dl2Rcm-W4AABPaI_ca {
+	position: absolute;
+	width: 37px;
+	height: 18px;
+	left: 83px;
+	top: 472px;
+	overflow: visible;
+}
+#Find_patterns_in_the_relation_ {
+	left: 87px;
+	top: 330px;
+	position: absolute;
+	overflow: visible;
+	width: 214px;
+	height: 30px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Find_patterns_in_the_relation__b {
+	left: 87px;
+	top: 412px;
+	position: absolute;
+	overflow: visible;
+	width: 214px;
+	height: 30px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#Find_patterns_in_the_relation__ca {
+	left: 87px;
+	top: 494px;
+	position: absolute;
+	overflow: visible;
+	width: 214px;
+	height: 30px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(112,112,112,1);
+}
+#To_understand_the_health_of_ho {
+	left: 76px;
+	top: 179px;
+	position: absolute;
+	overflow: visible;
+	width: 241px;
+	height: 49px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(255,255,255,1);
+}
+#Icon_awesome-info-circle {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-info-circle {
+	overflow: visible;
+	position: absolute;
+	width: 18.357px;
+	height: 18.357px;
+	left: 44px;
+	top: 141px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_49 {
+	fill: rgba(237,237,237,1);
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 375px;
+	height: 64px;
+	left: 0px;
+	top: -7px;
+}
+#Rectangle_31 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_31 {
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	height: 28px;
+	left: 30px;
+	top: 72px;
+}
+#Rectangle_32 {
+	fill: rgba(81,211,176,1);
+}
+.Rectangle_32 {
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	height: 28px;
+	left: 135px;
+	top: 72px;
+}
+#Rectangle_33 {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_33 {
+	position: absolute;
+	overflow: visible;
+	width: 101px;
+	height: 28px;
+	left: 240px;
+	top: 72px;
+}
+#Icon_open-graph {
+	fill: rgba(112,112,112,1);
+}
+.Icon_open-graph {
+	overflow: visible;
+	position: absolute;
+	width: 11.406px;
+	height: 11.405px;
+	left: 44.5px;
+	top: 81px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Home {
+	left: 73px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 20px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 9px;
+	color: rgba(112,112,112,1);
+}
+#Annotations {
+	left: 168px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 20px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 9px;
+	color: rgba(255,255,255,1);
+}
+#Leaderboard {
+	left: 273px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 65px;
+	height: 20px;
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 9px;
+	color: rgba(112,112,112,1);
+}
+#Icon_ionic-ios-trophy {
+	fill: rgba(112,112,112,1);
+}
+.Icon_ionic-ios-trophy {
+	overflow: visible;
+	position: absolute;
+	width: 10.366px;
+	height: 9.569px;
+	left: 254.29px;
+	top: 80.721px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_awesome-pen {
+	fill: rgba(255,255,255,1);
+}
+.Icon_awesome-pen {
+	overflow: visible;
+	position: absolute;
+	width: 10.297px;
+	height: 10.297px;
+	left: 147.424px;
+	top: 80px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#HealthWalk {
+	left: 171px;
+	top: 26px;
+	position: absolute;
+	overflow: hidden;
+	width: 91px;
+	height: 15px;
+	text-align: left;
+	font-family: Helvetica;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	color: rgba(112,112,112,1);
+}
+#Icon_awesome-walking {
+	fill: rgba(81,211,176,1);
+}
+.Icon_awesome-walking {
+	overflow: visible;
+	position: absolute;
+	width: 13.721px;
+	height: 21.953px;
+	left: 124px;
+	top: 21px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Icon_ionic-ios-menu {
+	position: absolute;
+	width: 23.571px;
+	height: 13.75px;
+	left: 22.428px;
+	top: 23px;
+	overflow: visible;
+}
+#Path_19 {
+	fill: rgba(112,112,112,1);
+}
+.Path_19 {
+	overflow: visible;
+	position: absolute;
+	width: 23.572px;
+	height: 1.964px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_20 {
+	fill: rgba(112,112,112,1);
+}
+.Path_20 {
+	overflow: visible;
+	position: absolute;
+	width: 23.572px;
+	height: 1.964px;
+	left: 0px;
+	top: 5.893px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_21 {
+	fill: rgba(112,112,112,1);
+}
+.Path_21 {
+	overflow: visible;
+	position: absolute;
+	width: 23.572px;
+	height: 1.964px;
+	left: 0px;
+	top: 11.786px;
+	transform: matrix(1,0,0,1,0,0);
+}
